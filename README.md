@@ -1,88 +1,89 @@
-Hi, I'm Yulieth 👋
+<h1 align="center">¡Hola! Soy Yulieth 👋</h1> <h3 align="center">🎓 Estudiante de Ingeniería de Sistemas y Computación</h3> <p align="center"> 💻 Desarrollo de Software &nbsp;|&nbsp; 🤖 Inteligencia Artificial & Machine Learning &nbsp;|&nbsp; 📊 Análisis de Datos &nbsp;|&nbsp; 🌱 Internet de las Cosas (IoT) </p>
+👩‍💻 Sobre mí
 
-🎓 Systems Engineering & Computer Science Student
+Soy estudiante de Ingeniería de Sistemas y Computación, interesada en el desarrollo de software, la inteligencia artificial, el análisis de datos y el Internet de las Cosas (IoT).
 
-💻 Software Development
-🤖 Artificial Intelligence & Machine Learning
-📊 Data Analysis
-🌱 Internet of Things
+Me apasiona diseñar y desarrollar soluciones tecnológicas que combinen software, datos y tecnologías emergentes para resolver problemas del mundo real.
 
-👩‍💻 About Me
+Mis proyectos académicos me han permitido trabajar con desarrollo web, bases de datos, programación en Python, sistemas IoT y machine learning.
 
-I am a Systems Engineering and Computer Science student with an interest in software development, artificial intelligence, data analysis, and Internet of Things.
+🛠️ Tecnologías y Herramientas
 
-I enjoy designing and developing technological solutions that combine software, data, and emerging technologies to address real-world problems.
+Programación y Desarrollo
 
-My academic projects have allowed me to work with web development, databases, Python programming, IoT systems, and machine learning.
-
-🛠️ Technologies & Tools
-Programming & Development
 Python
 JavaScript
 HTML5
 CSS3
 PHP
-Data & Databases
+
+Datos y Bases de Datos
+
 SQL
 MySQL
 SQL Server
 Firebase
-Artificial Intelligence
+
+Inteligencia Artificial
+
 Machine Learning
 Deep Learning
 Scikit-learn
 NumPy
 Pandas
 Matplotlib
-IoT & Hardware
+
+IoT y Hardware
+
 Arduino
 ESP32
-Sensors
-IoT Systems
-Tools
+Sensores
+Sistemas IoT
+
+Herramientas
+
 Git
 GitHub
 Visual Studio Code
 Google Colab
-🚀 Featured Projects
+🚀 Proyectos Destacados
 🌱 Agritech
 
-IoT-based agricultural monitoring project focused on smart crop management.
+Proyecto de monitoreo agrícola basado en IoT, enfocado en la gestión inteligente de cultivos.
 
-The project integrates sensors, data collection, IoT technologies, and machine learning concepts to support decision-making in agricultural processes.
+Integra sensores, recolección de datos, tecnologías IoT y conceptos de machine learning para apoyar la toma de decisiones en procesos agrícolas.
 
-Technologies: Python · IoT · ESP32 · Sensors · Machine Learning
+Tecnologías: Python · IoT · ESP32 · Sensores · Machine Learning
 
 💻 DSS-Ambar
 
-Web-based decision support system developed as an academic software project.
+Sistema de apoyo a la toma de decisiones basado en web, desarrollado como proyecto académico de software.
 
-The project focuses on the development of a technological solution for information management and decision-making.
+Se enfoca en el desarrollo de una solución tecnológica para la gestión de información y la toma de decisiones.
 
-Technologies: JavaScript · Firebase · HTML · CSS
+Tecnologías: JavaScript · Firebase · HTML · CSS
 
-🐍 Python Projects
+🐍 Proyectos en Python
 
-Collection of academic projects focused on programming, data analysis, algorithms, and computational problem solving.
+Colección de proyectos académicos enfocados en programación, análisis de datos, algoritmos y resolución de problemas computacionales.
 
-📚 Currently Learning
+📚 Actualmente aprendiendo
 Deep Learning
 Machine Learning
-Software Engineering
-Data Analysis
+Ingeniería de Software
+Análisis de Datos
 IoT
 MLOps
-Software Architecture
-🎓 Education
+Arquitectura de Software
+Etica Hacking
+🎓 Educación
 
-Systems Engineering & Computer Science
-Universidad de Cundinamarca 🇨🇴
+Ingeniería de Sistemas y Computación Universidad de Cundinamarca 🇨🇴
 
-📫 Connect With Me
+📫 Contáctame
 GitHub: @yulietoNieto
-LinkedIn: Add your LinkedIn profile here
-
-⭐ Always learning, building, and exploring new technologies.
+LinkedIn:https://github.com/yulietoNieto
+<p align="center">⭐ Siempre aprendiendo, construyendo y explorando nuevas tecnologías.</p>
 
 
 
